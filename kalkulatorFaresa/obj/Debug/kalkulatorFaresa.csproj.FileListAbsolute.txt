@@ -1,0 +1,9 @@
+H:\PKL\kk3\kalkulatorFaresa\kalkulatorFaresa\bin\Debug\kalkulatorFaresa.exe.config
+H:\PKL\kk3\kalkulatorFaresa\kalkulatorFaresa\bin\Debug\kalkulatorFaresa.exe
+H:\PKL\kk3\kalkulatorFaresa\kalkulatorFaresa\bin\Debug\kalkulatorFaresa.pdb
+H:\PKL\kk3\kalkulatorFaresa\kalkulatorFaresa\obj\Debug\kalkulatorFaresa.csprojResolveAssemblyReference.cache
+H:\PKL\kk3\kalkulatorFaresa\kalkulatorFaresa\obj\Debug\kalkulatorFaresa.Form1.resources
+H:\PKL\kk3\kalkulatorFaresa\kalkulatorFaresa\obj\Debug\kalkulatorFaresa.Properties.Resources.resources
+H:\PKL\kk3\kalkulatorFaresa\kalkulatorFaresa\obj\Debug\kalkulatorFaresa.csproj.GenerateResource.Cache
+H:\PKL\kk3\kalkulatorFaresa\kalkulatorFaresa\obj\Debug\kalkulatorFaresa.exe
+H:\PKL\kk3\kalkulatorFaresa\kalkulatorFaresa\obj\Debug\kalkulatorFaresa.pdb
